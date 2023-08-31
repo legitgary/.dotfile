@@ -10,3 +10,7 @@
     ~/.tmux.conf:
       relink: true
       path: .tmux.conf
+- link:
+    ~/.config/nvim:
+      relink: true
+      path: nvim
