@@ -6,3 +6,7 @@
     ~/.gitconfig:
       relink: true
       path: .gitconfig
+- link:
+    ~/.tmux.conf:
+      relink: true
+      path: .tmux.conf
