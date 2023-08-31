@@ -14,3 +14,7 @@
     ~/.config/nvim:
       relink: true
       path: nvim
+- link:
+    ~/.config/kitty:
+      relink: true
+      path: kitty
